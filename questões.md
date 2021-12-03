@@ -39,3 +39,7 @@ O que é fork?
 
 E COMO UM CLONE POREM DENTRO DO GITHUB.ISSO QUER DIZER QUE O REPOSITORIO
 NAO VAI SER BAIXADO PARA O SEU COMPUTADOR MAS SERA CRIADO UM IGUAL EM SUA CONTA
+
+ O que é um VCS?
+
+ O controle de versão, também conhecido como controle de fonte, é a prática de rastrear e gerenciar as alterações em um código de software. Os sistemas de controle de versão são ferramentas de software que ajudam as equipes de software a gerenciar as alterações ao código-fonte ao longo do tempo.
